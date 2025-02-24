@@ -1,4 +1,4 @@
-# Computer-Vision_Hand-Detection
+# Computer-Vision-Hand-Detection
 
 ## Real-Time Hand Detection Using MediaPipe and OpenCV
 
