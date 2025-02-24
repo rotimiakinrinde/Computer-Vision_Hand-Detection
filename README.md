@@ -39,7 +39,7 @@ This project demonstrates real-time hand detection using computer vision techniq
 
 -  The loop exits when the user presses **"q"**, releasing system resources.
 
-###  Key Findings and Results
+###  Results
 
 -  **Real-Time Performance:** The system achieves smooth real-time detection on standard hardware, suitable for interactive applications.
 
