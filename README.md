@@ -37,7 +37,7 @@ This project demonstrates real-time hand detection using computer vision techniq
 
 **5.  Termination**
 
--  The loop exits when the user presses q, releasing system resources.
+-  The loop exits when the user presses **"q"**, releasing system resources.
 
 ###  Key Findings and Results
 
